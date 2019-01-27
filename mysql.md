@@ -1,4 +1,4 @@
-# MySQL
+# MySQL Test
 
 Create a database:
 ```sql
